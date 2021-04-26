@@ -6,7 +6,7 @@ The Budget Tracker App is a progressive web application that helps users keep tr
 
 ## View Application:
 
-* [Heroku Link: https://jenn-budget-tracker-pwa.herokuapp.com/](https://jenn-budget-tracker-pwa.herokuapp.com/)
+* [Heroku Link: https://pure-springs-28081.herokuapp.com/](https://pure-springs-28081.herokuapp.com/)
 <img src ="./assets/budget-tracker-pwa.png" alt="budget tracker progressive web application">
 
 ## Functionality
@@ -23,3 +23,5 @@ After user is back online, our application checks the offline storage of items a
 
 ## Business Context
 This application gives users a fast and easy way to track their money and allows them to access that information anytime wether traveling, online or offline.
+
+Credit Source: @jennifoo
